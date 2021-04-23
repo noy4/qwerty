@@ -1,4 +1,4 @@
-# Video Editing
+# 動画編集
 
 ## After Effects
 

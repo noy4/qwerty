@@ -23,9 +23,9 @@ module.exports = {
           {
             text: 'Works',
             children: [
-              { text: 'Web Programming', link: '/web' },
-              { text: 'Video Editing', link: '/video' },
-              { text: 'Music', link: '/music' },
+              { text: 'Web Programming', link: '/works/web' },
+              { text: 'Video Editing', link: '/works/video' },
+              { text: 'Music', link: '/works/music' },
             ],
           },
           { text: 'Links', link: '/links' },
@@ -40,12 +40,12 @@ module.exports = {
           {
             text: '作品',
             children: [
-              { text: 'Webプログラミング', link: '/ja/web' },
-              { text: '動画編集', link: '/ja/video' },
-              { text: '音楽', link: '/ja/music' },
+              { text: 'Webプログラミング', link: '/ja/works/web' },
+              { text: '動画編集', link: '/ja/works/video' },
+              { text: '音楽', link: '/ja/works/music' },
             ],
           },
-          { text: 'Links', link: '/ja/links' },
+          { text: 'リンク', link: '/ja/links' },
         ],
         nav: [],
       },

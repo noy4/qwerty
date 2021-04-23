@@ -1,14 +1,14 @@
 ---
 home: true
-heroImage: ./kuwa_graduate_icon.png
-actionText: Get Started →
-actionLink: introduction
+heroImage: ../kuwa_graduate_icon.png
+actionText: はじめる →
+actionLink: ja/introduction
 features:
 - title: いいやつ
-  details: Qwerty is a nice guy. When you're in trouble, ask him for help. He's gonna solve every problem you're suffering from.
-- title: Kindhearted
-  details: Qwerty is kindhearted. When he moves his hands, or his legs, or even his body, he generates "kindness".
-- title: Fascinating
-  details: Qwerty is fascinating. Don't look into his eyes, or you'll fall in love with him.
+  details: クワーティーはいいやつだ。何か困っているなら彼に相談しよう。彼が全部解決してくれるはずさ。
+- title: 親切
+  details: クワーティーは親切だ。彼の一挙手一投足が「親切」を振りまいている。
+- title: 魅力的
+  details: クワーティーは魅力的だ。彼の目を見るな。さもないと恋に落ちてしまう。
 footer: Copyright © 2021 Naoya Kuwamura
 ---

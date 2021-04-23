@@ -1,10 +1,10 @@
-# Web programming
+# Webプログラミング
 
 ## [Kuwatify](https://noy4.github.io/kuwatify/)
 
 <img src="https://noy4.github.io/kuwatify/kuwatify_logo.png" width="160"/>
 
-:musical_note: _**Enjoy music with Kuwatify!**_
+:musical_note: _**Kuwatifyで音楽を楽しもう!**_
 
 - Nuxt <img src="https://nuxtjs.org/logos/nuxt.svg" width="20"/>
 - Composition API
@@ -15,7 +15,7 @@
 
 <img src="https://noy4.github.io/bingo-anke-site/img/bingo_anke_logo.png" width="160"/>
 
-:8ball: _**Answer questions, play bingo!**_
+:8ball: _**アンケに回答、ビンゴをプレイ!**_
 
 - React
 - AWS Amplify

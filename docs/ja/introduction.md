@@ -1,16 +1,15 @@
-# Introduction
+# 自己紹介
 <br>
-<img src="kuwa_graduate_icon.png" width="160">
+<img src="../kuwa_graduate_icon.png" width="160">
 
-## Naoya Kuwamura
+## 桑村直弥
 
-- Kuwabala Middle School (Ehime)
-- Matsuyama East High School (Ehime)  
-- Department of Art and Information Design  
-School of Design  
-Kyushu University (Fukuoka)
+- 桑原中学校（愛媛）
+- 松山東高校（愛媛）  
+- 九州大学 芸術工学部  
+芸術情報設計学科（福岡）
 
-## Favorite food
+## 好きな食べ物
 
-- Kulazushi :sushi:
-- McDonald's :hamburger:
+- くら寿司 :sushi:
+- マクドナルド :hamburger:
