@@ -66,34 +66,10 @@ function getSidebarJa() {
 function head() {
   return [
     ['meta', { name: 'twitter:card', content: 'summary' }],
-    [
-      'meta',
-      {
-        name: 'twitter:site',
-        content: '@kuwappi_',
-      },
-    ],
-    [
-      'meta',
-      {
-        property: 'og:url',
-        content: 'https://noy4.github.io/',
-      },
-    ],
-    [
-      'meta',
-      {
-        property: 'og:title',
-        content: 'Qwerty',
-      },
-    ],
-    [
-      'meta',
-      {
-        property: 'og:description',
-        content: "Hi, I'm Qwerty.",
-      },
-    ],
+    ['meta', { name: 'twitter:site', content: '@kuwappi_' }],
+    ['meta', { property: 'og:url', content: 'https://noy4.github.io/' }],
+    ['meta', { property: 'og:title', content: 'Qwerty' }],
+    ['meta', { property: 'og:description', content: "Hi, I'm Qwerty." }],
     [
       'meta',
       {
