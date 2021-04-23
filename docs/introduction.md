@@ -1,6 +1,6 @@
 # Introduction
 <br>
-<img src="kuwa_graduate_icon.png" width="160">
+<img :src="$withBase('/kuwa_graduate_icon.png')" width="160">
 
 ## Naoya Kuwamura
 
