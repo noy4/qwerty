@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ../kuwa_graduate_icon.png
+heroImage: ./kuwa_graduate_icon.png
 actionText: はじめる →
 actionLink: ja/introduction
 features:
