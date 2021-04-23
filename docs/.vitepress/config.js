@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Qwerty',
   description: "Hi, I'm Qwerty.",
+  base: '/qwerty/',
   locales: {
     '/': {
       lang: 'en-US',
